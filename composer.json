@@ -1,0 +1,6 @@
+{
+    "name": "u0_a369/api",
+    "require": {
+        "symfony/var-dumper": "^7.4"
+    }
+}
