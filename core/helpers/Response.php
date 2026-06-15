@@ -1,4 +1,6 @@
 <?php
 namespace Core\Helpers;
 
-class Request {}
+class Response {
+    
+}
