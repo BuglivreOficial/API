@@ -8,8 +8,5 @@ class App
     public function init()
     {
         (new Routing())->run();
-
-        ///// TESTE /////
-
     }
 }

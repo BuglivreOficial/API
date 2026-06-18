@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'u0_a369/api',
-        'pretty_version' => 'dev-main',
-        'version' => 'dev-main',
-        'reference' => '660a782ec96901b86421d80d51e7dbf86d4c353c',
+        'pretty_version' => '1.0.0+no-version-set',
+        'version' => '1.0.0.0',
+        'reference' => null,
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -38,9 +38,9 @@
             'dev_requirement' => false,
         ),
         'u0_a369/api' => array(
-            'pretty_version' => 'dev-main',
-            'version' => 'dev-main',
-            'reference' => '660a782ec96901b86421d80d51e7dbf86d4c353c',
+            'pretty_version' => '1.0.0+no-version-set',
+            'version' => '1.0.0.0',
+            'reference' => null,
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
