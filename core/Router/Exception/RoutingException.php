@@ -2,7 +2,7 @@
 
 namespace Core\Router\Exception;
 
-class RoutingException
+class RoutingException extends \Exception
 {
 
 }

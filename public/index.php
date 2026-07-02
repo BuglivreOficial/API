@@ -2,4 +2,8 @@
 
 require "../vendor/autoload.php";
 
-(new Core\App())->init();
+try {
+    (new Core\App())->init();
+} catch (\Core\Router\Exception\RoutingException $e) {
+    echo $e->getMessage();
+}
