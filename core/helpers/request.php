@@ -1,4 +1,0 @@
-<?php
-namespace Core\Helpers;
-
-class Request {}
